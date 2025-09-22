@@ -39,7 +39,6 @@ export function Auth() {
         {/* Header */}
         <div className="text-center">
           <div className="flex justify-center mb-4">
-            <BookOpen className="h-12 w-12 text-blue-500" />
           </div>
           <h2 className="text-3xl font-bold text-white">Brainy USS</h2>
           <p className="mt-2 text-slate-400">
